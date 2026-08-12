@@ -49,7 +49,7 @@ const Experience = () => {
         >
           <div className="eyebrow mb-4">— Experience</div>
           <h2 className="heading-xl">
-            Professional <span className="gradient-text">Experience</span>
+            Internship <span className="gradient-text">Experience</span>
           </h2>
         </motion.div>
 
